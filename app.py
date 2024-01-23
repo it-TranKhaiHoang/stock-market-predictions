@@ -1,7 +1,8 @@
 # import library
-import streamlit as st, pandas as pd, numpy as np, yfinance as yf
+import streamlit as st, pandas as pd, numpy as np
 import plotly.express as px
-import matplotlib.pyplot as plt
+
+
 from vnstock import * #import all functions, including functions that provide OHLC data for charting
 from vnstock.chart import * # import chart functions
 from sklearn.preprocessing import MinMaxScaler
