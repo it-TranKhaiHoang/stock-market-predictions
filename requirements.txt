@@ -7,3 +7,4 @@ scikit_learn==1.4.0
 streamlit==1.30.0
 vnstock==0.2.8.7
 yfinance==0.2.35
+tensorflow==3.2.2
